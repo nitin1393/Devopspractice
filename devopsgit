@@ -1,6 +1,8 @@
 git add
 git status
 git commit
+git pull
+checking merge conflict
 git stash
 Akshay
 git pull
