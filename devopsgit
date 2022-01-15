@@ -3,3 +3,4 @@ git status
 git commit
 git stash
 Akshay
+git pull
